@@ -1,0 +1,86 @@
+<mxfile>
+    <diagram id="0pb8bj_WZJrNMkB9vcmM" name="ページ1">
+        <mxGraphModel dx="1208" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="10" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="490" y="30" width="270" height="270" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="10">
+                    <mxGeometry width="270" height="270" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="10">
+                    <mxGeometry x="115" y="10" width="40" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Google認証" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="10">
+                    <mxGeometry x="75" y="90" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="20" y="20" width="270" height="270" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="11">
+                    <mxGeometry width="270" height="270" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="11">
+                    <mxGeometry x="120" y="30" width="40" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="アカウント作成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="11">
+                    <mxGeometry x="80" y="110" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="ログイン" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="11">
+                    <mxGeometry x="80" y="190" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.463;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2" target="6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="180" y="420" width="500" height="500" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#0000FF;" vertex="1" parent="20">
+                    <mxGeometry width="500" height="500" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Welcome&amp;nbsp; to your Task Manager&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=#75FFFA;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="20">
+                    <mxGeometry x="45" y="50" width="320" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;strokeColor=#0000FF;fillColor=#E6E6E6;" vertex="1" parent="20">
+                    <mxGeometry x="45" y="100" width="410" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="&lt;font style=&quot;font-size: 14px&quot; face=&quot;Garamond&quot;&gt;&lt;b&gt;Add your Task to Enter&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="20">
+                    <mxGeometry x="25" y="130" width="270" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fillColor=#ffffff;recursiveResize=0;" vertex="1" parent="20">
+                    <mxGeometry x="52.5" y="260" width="150" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="Option 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" vertex="1" parent="25">
+                    <mxGeometry x="8" y="7.5" width="15" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="Option 2" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" vertex="1" parent="25">
+                    <mxGeometry x="8" y="37.5" width="15" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="Option 3" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.checkbox;rSize=0;resizable=0;fillColor=#aaaaaa;strokeColor=#444444;gradientColor=#666666;align=left;spacingLeft=4;fontSize=17;fontColor=#008cff;labelPosition=right;" vertex="1" parent="25">
+                    <mxGeometry x="8" y="67.5" width="15" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="Option 4" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" vertex="1" parent="25">
+                    <mxGeometry x="8" y="97.5" width="15" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="" style="html=1;strokeWidth=2;shadow=0;dashed=0;shape=mxgraph.ios7ui.selectBar;dx=120;dy=5;dx2=50;size=5;strokeColor=#ffffff;fillColor=#222222;gradientColor=none;" vertex="1" parent="20">
+                    <mxGeometry x="45" y="200" width="165" height="27" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="All" style="shape=rect;fillColor=none;strokeColor=none;fontColor=#ffffff;fontSize=10;fontFamily=Helvetica;perimeter=none;resizeHeight=1;" vertex="1" parent="30">
+                    <mxGeometry width="50" height="27" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="To do" style="shape=rect;fillColor=none;strokeColor=none;fontColor=#ffffff;fontSize=10;fontFamily=Helvetica;perimeter=none;resizeHeight=1;" vertex="1" parent="30">
+                    <mxGeometry width="50" height="27" relative="1" as="geometry">
+                        <mxPoint x="50" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="33" value="Done" style="shape=rect;fillColor=none;strokeColor=none;fontColor=#ffffff;fontSize=10;fontFamily=Helvetica;perimeter=none;resizeHeight=1;" vertex="1" parent="30">
+                    <mxGeometry width="50" height="27" relative="1" as="geometry">
+                        <mxPoint x="100" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
